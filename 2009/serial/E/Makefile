@@ -1,4 +1,4 @@
-FLAGS=-O2
+FLAGS=-O2 -std=c++11
 
 CC=g++
 

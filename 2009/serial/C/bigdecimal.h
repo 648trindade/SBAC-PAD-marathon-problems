@@ -4,6 +4,8 @@
 #include <deque>
 #include <string>
 
+typedef unsigned int uint;
+
 using namespace std;
 
 class bigdecimal
