@@ -15,7 +15,7 @@
 
 ## Contributing
 
-You can contribute by providing parallel solutions to problems. When creating a PR, please make sure that your solution is placed at correct year directory, inside a folder with the nome of parallel tool, in lowercase letters.
+You can contribute by providing parallel solutions to problems. When creating a PR, please make sure that your solution is placed at correct year directory, inside a folder with the name of parallel tool, in lowercase letters.
 
 **Example:** You want to provide an OpenMP parallel solution for problem A from year 2014
 
