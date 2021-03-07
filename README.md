@@ -1,5 +1,9 @@
 # SBAC-PAD-marathon-problems
 
+## Problems
+
+You can check a compiled table of all problems at Problems.md
+
 ## Compiling and Running
 
 * Navigate to the directory containing the problem
